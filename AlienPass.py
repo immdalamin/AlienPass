@@ -20,7 +20,7 @@ banner = r"""
 """
 print(banner)
 
-print("🔐 Welcome to the Alien Pass Password Generator!\n")
+print(" Welcome to the Alien Pass Password Generator!\n")
 
 # Ask for password length (8–20)
 while True:
