@@ -12,6 +12,10 @@ It guides you through setting the password parameters and ensures the generated 
 
 ---
 
+
+## 📸 Screenshot
+<img align="center" src="https://i.postimg.cc/qqXLxJXf/carbon.png" width="900">
+
 ## ✨ Features
 
 * **Custom Length:** Generate passwords from **8 to 20** characters long.
