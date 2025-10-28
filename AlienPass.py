@@ -56,7 +56,7 @@ while True:
 
 while True:
     try:
-        num_passwords = int(input("[+] How many passwords would you like to generate? "))
+        num_passwords = int(input("[+] How many passwords would you like to generate?: "))
         if num_passwords > 0:
             break
         else:
